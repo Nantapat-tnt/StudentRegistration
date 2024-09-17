@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830325781615",
+    "firebase_url": "https://studentregistration-e55f6-default-rtdb.firebaseio.com",
+    "project_id": "studentregistration-e55f6",
+    "storage_bucket": "studentregistration-e55f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830325781615:android:42ba1d33321dd1db5c899a",
+        "android_client_info": {
+          "package_name": "com.example.studentregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9LZeSqKDZY7w8kEPADNsRh3reAOotzYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
